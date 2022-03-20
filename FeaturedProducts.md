@@ -1,5 +1,3 @@
-<div align="center"># Our Top Featured Products #</div>
-
 > - *Espresso*
  <img src="https://github.com/Moh2399/CoffeeHut_Frontend/blob/main/images/Featured_Espresso.jpg">
 
