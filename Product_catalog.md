@@ -28,6 +28,3 @@
    *  ## Cappuccino Freddo ##
    *  ## Caramel Frappe ##
    *  ## Espresoo Laccino ##
-
-   [![COFFEE MENU W.I.P]
-   <img src="https://www.luckybelly.com/wp-content/uploads 2020/08/different-coffee-drinks-768x768.jpg">
