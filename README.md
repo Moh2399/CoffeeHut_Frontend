@@ -6,3 +6,4 @@ In this page you can acccess our
  * [Product](https://github.com/Moh2399/CoffeeHut_Frontend/blob/main/Product_catalog.md)
  * [Discounts](https://github.com/Moh2399/CoffeeHut_Frontend/blob/main/Discount_plans.md)
  * [Testimonials](https://github.com/Moh2399/CoffeeHut_Frontend/blob/main/Testimonials.md)
+ * [Featured Products](https://github.com/Moh2399/CoffeeHut_Frontend/blob/main/FeaturedProducts.md)
