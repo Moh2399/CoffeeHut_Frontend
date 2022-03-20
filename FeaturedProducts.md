@@ -27,3 +27,9 @@
 <img src="https://github.com/Moh2399/CoffeeHut_Frontend/blob/main/images/Featured_Cappuccino.jpg">
 
      A foamy and creamy cup of coffee that has a slightly strong coffee taste.
+
+# Discounts 
+
+1. We're introducing our brand  new wallet system on our webpage **CoffeHut Wallet**.
+
+2. Get **35% Discount** on every purchase you made on CoffeeHut site using **CoffeHut Wallet**. Offer's is only for limited time don't miss it.
