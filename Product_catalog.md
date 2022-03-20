@@ -31,4 +31,4 @@
 
    # Our Menu
 
-   <iframe src="https://assets.pinterest.com/ext/embed.html?id=734720126720730892" height="550" width="450" frameborder="0" scrolling="no" ></iframe>
+   <img src="https://github.com/Moh2399/CoffeeHut_Frontend/blob/main/images/Coffee_menu.jpg?raw=true">
