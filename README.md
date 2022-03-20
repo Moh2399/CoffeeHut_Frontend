@@ -1,4 +1,4 @@
-# Welcome to CoffeHut #
+# Welcome to CoffeeHut #
 
 We are a group of people, who would give our love to our customer. with a cup of coffee.
 
